@@ -1,2 +1,2 @@
 # BouncingBall
-Creating Bouncing Ball with CSS &amp; Java
+Creating Bouncing Ball with CSS &amp; JavaScript
